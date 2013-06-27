@@ -12,7 +12,7 @@ npm install udpchat -g
 
 ```
 udpchat <otherUsername> <otherAddress> <myUsername> <myAddress>
-``
+```
 
 e.g.
 
