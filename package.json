@@ -1,0 +1,15 @@
+{
+  "name": "udpchat",
+  "version": "1.0.0",
+  "description": "command line 2 person chat app that uses udp to connect",
+  "main": "index.js",
+  "bin": "bin/udpchat.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ansi": "0.1.2"
+  },
+  "author": "max ogden",
+  "license": "BSD"
+}
